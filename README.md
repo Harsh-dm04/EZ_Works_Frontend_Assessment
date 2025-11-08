@@ -9,8 +9,7 @@ This project is designed to collect user queries with proper validation and send
 
 Below is a preview of the application interface 👇  
 
-![App Screenshot]([EZ_Works_Frontend_Assessment
-/Assessment_Screenshot.png))
+
 
 ---
 
