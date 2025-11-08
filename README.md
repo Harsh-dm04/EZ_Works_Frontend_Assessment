@@ -9,9 +9,7 @@ This project is designed to collect user queries with proper validation and send
 
 Below is a preview of the application interface 👇  
 
-![App Screenshot]([/client/public/Assignment%20Screenshot.png](https://github.com/Harsh-dm04/EZ_Works_Frontend_Assessment/blob/main/Assessment_Screenshot.png))
-
-*(Replace the path above with your actual screenshot location, for example /public/screenshot.png or an image URL.)*
+![App Screenshot]([EZ_Works_Frontend_Assessment/blob/main/Assessment_Screenshot.png))
 
 ---
 
