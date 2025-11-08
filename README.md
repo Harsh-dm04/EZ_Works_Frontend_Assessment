@@ -9,7 +9,7 @@ This project is designed to collect user queries with proper validation and send
 
 Below is a preview of the application interface 👇  
 
-
+<IMG src="Assessment_Screenshot.png" alt="App Screenshot"/>
 
 ---
 
